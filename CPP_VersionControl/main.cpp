@@ -2,7 +2,8 @@
 
 int main()
 {
-	std::cout << "Hello main function in world" << std::endl;
+	//comment
+	std::cout << "Feature" << std::endl;
 	system("PAUSE");
 	return 0;
 }
