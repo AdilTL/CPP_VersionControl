@@ -2,7 +2,7 @@
 
 int main()
 {
-	std::cout << "Hello main function in world" << std::endl;
+	std::cout << "Hello world" << std::endl;
 	system("PAUSE");
 	return 0;
 }
