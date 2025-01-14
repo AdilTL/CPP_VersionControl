@@ -2,7 +2,8 @@
 
 int main()
 {
-	std::cout << "Hello world" << std::endl;
+	//comment
+	std::cout << "Feature wow" << std::endl;
 	system("PAUSE");
 	return 0;
 }
