@@ -1,9 +1,14 @@
 #include <iostream>
 
+void greet()
+{
+	std::cout << "Feature wow" << std::endl;
+}
+
 int main()
 {
 	//comment
-	std::cout << "Feature wow" << std::endl;
+	greet();
 	system("PAUSE");
 	return 0;
 }
